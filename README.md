@@ -2,7 +2,7 @@
 
 ## 获取key
 
-1. 访问 [www.cursor.com](https://www.cursor.com) 并完成注册登录（赠送 250 次快速响应，可通过删除账号再注册重置）
+1. 注册登录
 2. 在浏览器中打开开发者工具（F12）
 3. 找到 Application-Cookies 中名为 `WorkosCursorSessionToken` 的值并保存(相当于 openai 的密钥)
 
